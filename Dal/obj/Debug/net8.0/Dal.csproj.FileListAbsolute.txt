@@ -1,0 +1,70 @@
+H:\EyeInstitute\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\EyeInstitute\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\EyeInstitute\Dal\bin\Debug\net8.0\Dal.dll
+H:\EyeInstitute\Dal\bin\Debug\net8.0\Dal.pdb
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.dll
+H:\EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
+H:\EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\user\Desktop\EyeInstitute\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\user\Desktop\EyeInstitute\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\user\Desktop\EyeInstitute\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\user\Desktop\EyeInstitute\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\user\Desktop\EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\user\Documents\מסלול\‏‏EyeInstitute - עותק\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\user\Desktop\ל ניסן\‏‏EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.dll
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\bin\Debug\net8.0\Dal.pdb
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.dll
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\c# project\יום שני\‏‏EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll
