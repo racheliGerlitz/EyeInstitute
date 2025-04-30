@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Dal.models.Appointment, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[Dal.Models.Appointment, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +29,13 @@
     "Parameters": [
       {
         "Name": "Appointment",
-        "Type": "Dal.models.Appointment",
+        "Type": "Dal.Models.Appointment",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Dal.models.Appointment",
+        "Type": "Dal.Models.Appointment",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -55,13 +55,13 @@
     "Parameters": [
       {
         "Name": "Appointment",
-        "Type": "Dal.models.Appointment",
+        "Type": "Dal.Models.Appointment",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Dal.models.Appointment",
+        "Type": "Dal.Models.Appointment",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -97,13 +97,13 @@
     "Parameters": [
       {
         "Name": "emp",
-        "Type": "Dal.models.Client",
+        "Type": "Dal.Models.Client",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Dal.models.Client",
+        "Type": "Dal.Models.Client",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -143,33 +143,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Dal.models.Client, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Server.Controllers.ClientController",
-    "Method": "Post",
-    "RelativePath": "api/Client",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "client",
-        "Type": "Dal.models.Client",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Dal.models.Client",
+        "Type": "System.Collections.Generic.List\u00601[[Dal.Models.Client, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -189,13 +163,13 @@
     "Parameters": [
       {
         "Name": "client",
-        "Type": "Dal.models.Client",
+        "Type": "Dal.Models.Client",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Dal.models.Client",
+        "Type": "Dal.Models.Client",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -222,6 +196,38 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Server.Controllers.ClientController",
+    "Method": "Login",
+    "RelativePath": "api/Client/check-client/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.ClientController",
+    "Method": "SignUp",
+    "RelativePath": "api/Client/sign-up",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clientAddressDto",
+        "Type": "Server.Dto.ClientAddressDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Server.Controllers.DoctorController",
     "Method": "Get",
     "RelativePath": "api/Doctor",
@@ -231,7 +237,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[Dal.models.Doctor, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[Dal.Models.Doctor, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -251,13 +257,13 @@
     "Parameters": [
       {
         "Name": "doctor",
-        "Type": "Dal.models.Doctor",
+        "Type": "Dal.Models.Doctor",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Dal.models.Doctor",
+        "Type": "Dal.Models.Doctor",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -277,13 +283,13 @@
     "Parameters": [
       {
         "Name": "doctor",
-        "Type": "Dal.models.Doctor",
+        "Type": "Dal.Models.Doctor",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Dal.models.Doctor",
+        "Type": "Dal.Models.Doctor",
         "MediaTypes": [
           "text/plain",
           "application/json",

@@ -31,24 +31,36 @@ namespace Server.Controllers
 
         // אם הלקוח קיים כניסה למערכת לפי תעודת זהות.
         [HttpGet("check-client/{id}")]
-        public ActionResult<string> Login(string id)
+        public ActionResult Login(string id)
         {
             var existingClient = _clientService.Login(id);
             if (existingClient != null)
             {
-                // הלקוח קיים - החזרת ה-ID
-                return Ok(existingClient);
+                // Return a JSON object with the client's ID
+                return Ok(new { id = existingClient });
             }
             return NotFound("Client does not exist.");
         }
-       
+
+        [HttpPost("sign-up")]
+        public ActionResult SignUp([FromBody] ClientAddressDto clientAddressDto)
+        {
+            var newClientId = _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
+            if (newClientId != null)
+            {
+                // Return a JSON object with the new client's ID
+                return Ok(new { id = newClientId });
+            }
+            return BadRequest("Unable to create client.");
+        }
+
 
         //כניסת לקוח למערכת אם הלקוח לא קיים- יצירת לקוח חדש.
-        [HttpPost]
-        public ActionResult<string> Post([FromBody] ClientAddressDto clientAddressDto)
-        {
-           return _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
-        }
+        //[HttpPost]
+        //public ActionResult<string> Post([FromBody] ClientAddressDto clientAddressDto)
+        //{
+        //   return _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
+        //}
         
 
         [HttpPut]
