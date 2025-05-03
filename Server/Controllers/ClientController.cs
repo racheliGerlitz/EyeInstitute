@@ -36,8 +36,21 @@ namespace Server.Controllers
             var existingClient = _clientService.Login(id);
             if (existingClient != null)
             {
-                // Return a JSON object with the client's ID
-                return Ok(new { id = existingClient });
+                // Return a JSON object with the client's details
+                return Ok(new
+                {
+                    id = existingClient.Id,
+                    name = existingClient.Name,
+                    email = existingClient.Email,
+                    phoneNumber = existingClient.PhoneNumber,
+                    age = existingClient.Age,
+                    leftEyeNumber = existingClient.LeftEyeNumber,
+                    rightEyeNumber = existingClient.RightEyeNumber,
+                    cylinder = existingClient.Cylinder,
+                    backgroundDiseases = existingClient.BackgroundDiseases,
+                    healthInsurance = existingClient.HealthInsurance,
+                    address = existingClient.Address
+                });
             }
             return NotFound("Client does not exist.");
         }
@@ -48,8 +61,21 @@ namespace Server.Controllers
             var newClientId = _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
             if (newClientId != null)
             {
-                // Return a JSON object with the new client's ID
-                return Ok(new { id = newClientId });
+                var newClient = _clientService.Login(newClientId); // Fetch the full client details
+                return Ok(new
+                {
+                    id = newClient.Id,
+                    name = newClient.Name,
+                    email = newClient.Email,
+                    phoneNumber = newClient.PhoneNumber,
+                    age = newClient.Age,
+                    leftEyeNumber = newClient.LeftEyeNumber,
+                    rightEyeNumber = newClient.RightEyeNumber,
+                    cylinder = newClient.Cylinder,
+                    backgroundDiseases = newClient.BackgroundDiseases,
+                    healthInsurance = newClient.HealthInsurance,
+                    address = newClient.Address
+                });
             }
             return BadRequest("Unable to create client.");
         }
@@ -61,7 +87,7 @@ namespace Server.Controllers
         //{
         //   return _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
         //}
-        
+
 
         [HttpPut]
         public ActionResult<Client> Put([FromBody] Client client)

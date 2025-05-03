@@ -69,10 +69,10 @@ public class BlClientService : IBlClient
         dalClient.Create(c);
         return c.Id;
     }
-    public string Login(string id)
+    public Client? Login(string id)
     {
         var client = dalClient.Read().FirstOrDefault(c => c.Id.Equals(id));
-        return client?.Id;
+        return client;
     }
    
 

@@ -16,7 +16,7 @@ namespace BL.Api
         List<Client> Read();
         void Delete(Client item);
         void UpDate(Client item);
-        string Login(string id);
+        Client Login(string id);
 
         string SignUp(Client client,Address address);
 
