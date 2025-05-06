@@ -63,11 +63,21 @@ public class BlClientService : IBlClient
     //יצרנו לקוח
     public string SignUp(Client c,Address address)
     {
-      int addressid= dalAddress.Create(address);
-        c.AddressId= addressid;
-        dalClient.UpDate(c);
+        int addressid = dalAddress.Create(address);
+        if (addressid <= 0)
+        {
+            throw new InvalidOperationException("Failed to create address.");
+        }
         dalClient.Create(c);
+        if (string.IsNullOrEmpty(c.Id))
+        {
+            throw new InvalidOperationException("Failed to generate client ID.");
+        }
+        c.AddressId = addressid;
+        dalClient.UpDate(c);
         return c.Id;
+
+       
     }
     public Client? Login(string id)
     {

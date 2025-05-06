@@ -46,7 +46,7 @@ public class ClientService : Iclient
     {
         Client e = db.Clients.FirstOrDefault(e => e.Id == item.Id);
         if (e == null) return;
-        e.Id = item.Id;
+       // e.Id = item.Id;
         e.LeftEyeNumber = item.LeftEyeNumber;
         e.PhoneNumber = item.PhoneNumber;
         e.RightEyeNumber = item.RightEyeNumber;

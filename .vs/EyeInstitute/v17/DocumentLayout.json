@@ -3,12 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|solutionrelative:server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0AAD803-0461-413B-A29C-5256D1690340}|BL\\BL.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\bl\\service\\blclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0AAD803-0461-413B-A29C-5256D1690340}|BL\\BL.csproj|solutionrelative:bl\\service\\blclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|solutionrelative:server\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\1sbqcv0v..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0AAD803-0461-413B-A29C-5256D1690340}|BL\\BL.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\bl\\api\\iblclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,18 +88,6 @@
       "RelativeMoniker": "D:0:0:{F0AAD803-0461-413B-A29C-5256D1690340}|BL\\BL.csproj|solutionrelative:bl\\api\\iblappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\appointmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
@@ -118,14 +133,6 @@
       "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\dalmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\06be2250ceadcd17e52c8201e22c586e42fc2608dde6061b35a7faf0add06efd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -151,14 +158,10 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u05DC \u05E0\u05D9\u05E1\u05DF\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ValuesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\1sbqcv0v..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\eyymxmp2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\eyymxmp2..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\1sbqcv0v..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -168,11 +171,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Server.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Server.csproj",
               "RelativeDocumentMoniker": "Server\\Server.csproj",
@@ -189,18 +192,122 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\eyymxmp2..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\eyymxmp2..sql",
-              "ToolTip": "SQLQuery1.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-05-03T18:57:31.153Z",
+              "DocumentIndex": 0,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Server\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:26:57.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "BlClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlClientService.cs",
+              "RelativeDocumentMoniker": "BL\\Service\\BlClientService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlClientService.cs",
+              "RelativeToolTip": "BL\\Service\\BlClientService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAcwFIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:50:56.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DatabaseManager.cs",
+              "RelativeToolTip": "Dal\\models\\DatabaseManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAArwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:13:15.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\ClientService.cs",
+              "RelativeToolTip": "Dal\\Services\\ClientService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:30:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentsService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\AppointmentsService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\AppointmentsService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\AppointmentsService.cs",
+              "RelativeToolTip": "Dal\\Services\\AppointmentsService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T17:26:16.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:45:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\DoctorService.cs",
+              "RelativeToolTip": "Dal\\Services\\DoctorService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA8wCsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:39:25.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\1sbqcv0v..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\1sbqcv0v..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-06T09:58:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "Dal\\Services\\AddressService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\AddressService.cs",
+              "RelativeToolTip": "Dal\\Services\\AddressService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:58:26.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -208,37 +315,23 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-04-28T21:02:02.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ClientController.cs",
-              "RelativeDocumentMoniker": "Server\\Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ClientController.cs",
-              "RelativeToolTip": "Server\\Controllers\\ClientController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:26:57.057Z",
+              "WhenOpened": "2025-04-28T21:02:02.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlClientService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlClientService.cs",
-              "RelativeDocumentMoniker": "BL\\Service\\BlClientService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlClientService.cs*",
-              "RelativeToolTip": "BL\\Service\\BlClientService.cs*",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:50:56.588Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "eyymxmp2..sql",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\eyymxmp2..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\eyymxmp2..sql",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\eyymxmp2..sql",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\eyymxmp2..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-03T18:57:31.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "IBlClient.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Api\\IBlClient.cs",
               "RelativeDocumentMoniker": "BL\\Api\\IBlClient.cs",
@@ -251,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\Client.cs",
               "RelativeDocumentMoniker": "Dal\\models\\Client.cs",
@@ -264,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "BLController1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\BLController1.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\BLController1.cs",
@@ -277,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\DoctorController.cs",
@@ -290,18 +383,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SQLQuery1.sql ",
+              "DocumentIndex": 15,
+              "Title": "SQLQuery1.sql",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\SQLQuery1.sql",
               "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "SQLQuery1.sql ",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2025-04-30T14:41:36.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\Appointment.cs",
               "RelativeDocumentMoniker": "Dal\\models\\Appointment.cs",
@@ -309,11 +403,12 @@
               "RelativeToolTip": "Dal\\models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T14:45:41.738Z"
+              "WhenOpened": "2025-04-30T14:45:41.738Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\appsettings.json",
               "RelativeDocumentMoniker": "Server\\appsettings.json",
@@ -326,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "dbo.Clients [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Clients.sql",
               "ToolTip": "dbo.Clients [Data]",
@@ -335,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "BlAppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlAppointmentService.cs",
               "RelativeDocumentMoniker": "BL\\Service\\BlAppointmentService.cs",
@@ -347,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\AppointmentController.cs",
@@ -359,19 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppointmentsService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\AppointmentsService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\AppointmentsService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\AppointmentsService.cs",
-              "RelativeToolTip": "Dal\\Services\\AppointmentsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T17:26:16.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "dbo.Appointments.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Appointments.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Appointments.sql",
@@ -380,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "IBlAppointment.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Api\\IBlAppointment.cs",
               "RelativeDocumentMoniker": "BL\\Api\\IBlAppointment.cs",
@@ -392,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "dbo.Doctors.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Doctors.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Doctors.sql",
@@ -401,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "dbo.Address.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Address.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DOCUMENTS_\u05DE\u05E1\u05DC\u05D5\u05DC_C__\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8_2___EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Address.sql",
@@ -410,31 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\DoctorService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\DoctorService.cs",
-              "RelativeToolTip": "Dal\\Services\\DoctorService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T11:39:25.08Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClientService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\ClientService.cs",
-              "RelativeDocumentMoniker": "Dal\\Services\\ClientService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Services\\ClientService.cs",
-              "RelativeToolTip": "Dal\\Services\\ClientService.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwDkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:30:45.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "E:\\\u05DC \u05E0\u05D9\u05E1\u05DF\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ValuesController.cs",
               "ToolTip": "E:\\\u05DC \u05E0\u05D9\u05E1\u05DF\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ValuesController.cs",
@@ -444,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "IBlDoctor.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Api\\IBlDoctor.cs",
               "RelativeDocumentMoniker": "BL\\Api\\IBlDoctor.cs",
@@ -456,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "EmpForPhone.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Models\\EmpForPhone.cs",
               "RelativeDocumentMoniker": "BL\\Models\\EmpForPhone.cs",
@@ -468,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Iclient.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Api\\Iclient.cs",
               "RelativeDocumentMoniker": "Dal\\Api\\Iclient.cs",
@@ -480,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "IDal.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Api\\IDal.cs",
               "RelativeDocumentMoniker": "Dal\\Api\\IDal.cs",
@@ -492,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Icurd.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Api\\Icurd.cs",
               "RelativeDocumentMoniker": "Dal\\Api\\Icurd.cs",
@@ -504,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "IblMANanager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Api\\IblMANanager.cs",
               "RelativeDocumentMoniker": "BL\\Api\\IblMANanager.cs",
@@ -516,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "BlManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\BlManager.cs",
               "RelativeDocumentMoniker": "BL\\BlManager.cs",
@@ -528,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "DalManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\DalManager.cs",
               "RelativeDocumentMoniker": "Dal\\DalManager.cs",
@@ -540,31 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Program.cs",
-              "RelativeDocumentMoniker": "Server\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Program.cs",
-              "RelativeToolTip": "Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T20:45:07.088Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "Dal\\models\\DatabaseManager.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DatabaseManager.cs",
-              "RelativeToolTip": "Dal\\models\\DatabaseManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIA+wBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T21:13:15.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "dbo.Clients.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DESKTOP_EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Clients.sql",
               "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_USER_DESKTOP_EYEINSTITUTE_DB_DATABASE.MDF/True/SqlTable/dbo.Clients.sql",
@@ -573,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\.vsdbgsrc\\06be2250ceadcd17e52c8201e22c586e42fc2608dde6061b35a7faf0add06efd\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\06be2250ceadcd17e52c8201e22c586e42fc2608dde6061b35a7faf0add06efd\\Program.cs",
@@ -586,7 +621,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "BL.csproj",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\BL.csproj",
               "RelativeDocumentMoniker": "BL\\BL.csproj",
@@ -598,7 +633,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DataContext.cs",
               "RelativeDocumentMoniker": "Dal\\models\\DataContext.cs",
@@ -610,7 +645,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "Idoctor.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\Api\\Idoctor.cs",
               "RelativeDocumentMoniker": "Dal\\Api\\Idoctor.cs",
@@ -622,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\Address.cs",
               "RelativeDocumentMoniker": "Dal\\models\\Address.cs",

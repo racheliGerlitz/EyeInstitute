@@ -41,7 +41,7 @@ namespace Dal.Services
         {
             Doctor e = db.Doctors.FirstOrDefault(e => e.Id == item.Id);
             if (e == null) return;
-            e.Id = item.Id;
+          //  e.Id = item.Id;
             e.Name = item.Name;
             e.AddressId = item.AddressId;
             e.Specialization=item.Specialization;

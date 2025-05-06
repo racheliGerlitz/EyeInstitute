@@ -40,7 +40,7 @@ public class AppointmentsService : IApointment
     {
         Appointment e = db.Appointments.FirstOrDefault(e => e.Id == item.Id);
         if (e == null) return;
-        e.Id = item.Id;
+       // e.Id = item.Id;
         e.Date = item.Date;
         e.Hour = item.Hour;
         e.DoctorId = item.DoctorId;
