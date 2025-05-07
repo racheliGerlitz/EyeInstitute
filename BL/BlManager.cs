@@ -8,8 +8,8 @@ namespace BL
 {
     public class BlManager: IblMANanager
     {
-        public IBlClient? BlClients { get; }
-        public IBlAppointment? BlAppointment { get; }
+        public IBlClient BlClients { get; }
+        public IBlAppointment BlAppointment { get; }
         public IBlDoctor BlDoctors { get; }
 
         public BlManager()
@@ -17,7 +17,7 @@ namespace BL
             
             ServiceCollection services = new ServiceCollection();
             services.AddSingleton<IBlClient, BlClientService>();
-          //  services.AddSingleton<IBlAppointment, BlAppointmentService>();
+            services.AddSingleton<IBlAppointment, BlAppointmentService>();
             services.AddSingleton<IBlDoctor, BLDoctorService>();
             services.AddSingleton<IDal, DalMannager>();
 

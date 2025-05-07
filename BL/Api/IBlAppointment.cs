@@ -13,7 +13,7 @@ namespace BL.Api
         List<Appointment> Read();
         void Delete(Appointment item);
         void UpDate(Appointment item);
-        List<Appointment> ChooseAnAppointment(string doctorId);
+        List<Appointment> ChooseAnAppointment(int doctorId);
         
     }
 }

@@ -55,7 +55,7 @@ namespace Server.Controllers
             return NoContent();
         }
         [HttpGet("appointments/{id}")]
-        public ActionResult<List<Appointment>> GetAppointments(string id)
+        public ActionResult<List<Appointment>> GetAppointments([FromRoute]int id)
         {
             var appointments = _appointmentService.ChooseAnAppointment(id);
             if (appointments == null || appointments.Count == 0)

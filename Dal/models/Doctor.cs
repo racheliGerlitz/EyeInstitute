@@ -5,7 +5,7 @@ namespace Dal.Models;
 
 public partial class Doctor
 {
-    public string Id { get; set; }
+    public int Id { get; set; }
 
     public string Name { get; set; } = null!;
 

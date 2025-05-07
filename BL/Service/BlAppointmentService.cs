@@ -37,9 +37,9 @@ namespace BL.Service
         {
             apointment.UpDate(item);
         }
-       public List<Appointment> ChooseAnAppointment(string doctorId)
+       public List<Appointment> ChooseAnAppointment(int doctorId)
         {
-            var appointmentsByDoctor= Read().FindAll(a => a.DoctorId.Equals(doctorId));
+            var appointmentsByDoctor= Read().FindAll(a => a.DoctorId== doctorId);
             return appointmentsByDoctor.FindAll(a => a.ClientId == null);
         }
     }
