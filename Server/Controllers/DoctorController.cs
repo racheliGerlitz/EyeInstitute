@@ -55,6 +55,7 @@ namespace Server.Controllers
             _doctorService.Delete(doctor);
             return NoContent();
         }
+
         [HttpGet("choose-appointment/{specialization}")]
         public ActionResult<List<Doctor>> ChooseADoctor([FromRoute] string specialization)
         {
