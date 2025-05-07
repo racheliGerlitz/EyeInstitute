@@ -1,6 +1,7 @@
 ﻿
 using BL.Api;
 using BL.Models;
+using BL.Service;
 using Dal.Api;
 using Dal.Models;
 using Dal.Models;
@@ -53,6 +54,11 @@ namespace Server.Controllers
 
             _doctorService.Delete(doctor);
             return NoContent();
+        }
+        [HttpGet("choose-appointment/{specialization}")]
+        public ActionResult<List<Doctor>> ChooseADoctor([FromRoute] string specialization)
+        {
+            return _doctorService.ChooseADoctor(specialization);
         }
     }
 }

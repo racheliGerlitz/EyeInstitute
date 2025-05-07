@@ -20,7 +20,17 @@ public class ClientService : Iclient
     public void Create(Client item)
     {
 
-        db.Add(item);
+        var existingEntity = db.ChangeTracker.Entries<Client>()
+    .FirstOrDefault(e => e.Entity.Id == item.Id)?.Entity;
+
+        if (existingEntity == null)
+        {
+            db.Add(item);
+        }
+        else
+        {
+            // Optionally update the existing entity
+        }
         db.SaveChanges();
     }
 

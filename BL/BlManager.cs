@@ -17,7 +17,7 @@ namespace BL
             
             ServiceCollection services = new ServiceCollection();
             services.AddSingleton<IBlClient, BlClientService>();
-            services.AddSingleton<IBlAppointment, BlAppointmentService>();
+          //  services.AddSingleton<IBlAppointment, BlAppointmentService>();
             services.AddSingleton<IBlDoctor, BLDoctorService>();
             services.AddSingleton<IDal, DalMannager>();
 

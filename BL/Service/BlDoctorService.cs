@@ -37,5 +37,10 @@ namespace BL.Service
         {
             bldoctor.UpDate(item);
         }
+
+        public List<Doctor> ChooseADoctor(string specialization)
+        {
+          return  Read().FindAll(d => d.Specialization.Equals(specialization));
+        }
     }
 }

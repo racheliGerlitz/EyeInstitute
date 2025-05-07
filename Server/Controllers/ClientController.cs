@@ -31,7 +31,7 @@ namespace Server.Controllers
 
         // אם הלקוח קיים כניסה למערכת לפי תעודת זהות.
         [HttpGet("check-client/{id}")]
-        public ActionResult Login(string id)
+        public ActionResult<string> Login(string id)
         {
             var existingClient = _clientService.Login(id);
             if (existingClient != null)
@@ -59,23 +59,27 @@ namespace Server.Controllers
         public ActionResult SignUp([FromBody] ClientAddressDto clientAddressDto)
         {
             var newClientId = _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
+            Console.WriteLine(newClientId);
             if (newClientId != null)
             {
-                var newClient = _clientService.Login(newClientId); // Fetch the full client details
-                return Ok(new
-                {
-                    id = newClient.Id,
-                    name = newClient.Name,
-                    email = newClient.Email,
-                    phoneNumber = newClient.PhoneNumber,
-                    age = newClient.Age,
-                    leftEyeNumber = newClient.LeftEyeNumber,
-                    rightEyeNumber = newClient.RightEyeNumber,
-                    cylinder = newClient.Cylinder,
-                    backgroundDiseases = newClient.BackgroundDiseases,
-                    healthInsurance = newClient.HealthInsurance,
-                    address = newClient.Address
-                });
+                var newClient = _clientService.Read().FirstOrDefault(c => c.Id.Equals(newClientId));
+                if (newClient != null)
+                {// Fetch the full client details
+                    return Ok(new
+                    {
+                        id = newClient.Id,
+                        name = newClient.Name,
+                        email = newClient.Email,
+                        phoneNumber = newClient.PhoneNumber,
+                        age = newClient.Age,
+                        leftEyeNumber = newClient.LeftEyeNumber,
+                        rightEyeNumber = newClient.RightEyeNumber,
+                        cylinder = newClient.Cylinder,
+                        backgroundDiseases = newClient.BackgroundDiseases,
+                        healthInsurance = newClient.HealthInsurance,
+                        address = newClient.Address
+                    });
+                }
             }
             return BadRequest("Unable to create client.");
         }

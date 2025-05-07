@@ -54,5 +54,15 @@ namespace Server.Controllers
             _appointmentService.Delete(Appointment);
             return NoContent();
         }
+        [HttpGet("appointments/{id}")]
+        public ActionResult<List<Appointment>> GetAppointments(string id)
+        {
+            var appointments = _appointmentService.ChooseAnAppointment(id);
+            if (appointments == null || appointments.Count == 0)
+            {
+                return NotFound();
+            }
+            return Ok(appointments);
+        }
     }
 }

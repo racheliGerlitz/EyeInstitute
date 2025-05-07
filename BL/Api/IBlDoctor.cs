@@ -13,5 +13,6 @@ namespace BL.Api
         List<Doctor> Read();
         void Delete(Doctor item);
         void UpDate(Doctor item);
+        public List<Doctor> ChooseADoctor( string Specialization);
     }
 }

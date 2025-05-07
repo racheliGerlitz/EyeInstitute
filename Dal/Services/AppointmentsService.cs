@@ -46,7 +46,6 @@ public class AppointmentsService : IApointment
         e.DoctorId = item.DoctorId;
         e.ClientId = item.ClientId;
         db.SaveChanges(true);
-
     }
 
   

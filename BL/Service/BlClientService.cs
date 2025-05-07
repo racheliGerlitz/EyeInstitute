@@ -61,31 +61,31 @@ public class BlClientService : IBlClient
     //יצרנו כתובת לפי נתוני הלקוח
     //עדכנו ללקוח  addressid לפי מה שחזר מיצירת כתובת
     //יצרנו לקוח
-    public string SignUp(Client c,Address address)
+    public string SignUp(Client c, Address address)
     {
         int addressid = dalAddress.Create(address);
         if (addressid <= 0)
         {
             throw new InvalidOperationException("Failed to create address.");
         }
-        dalClient.Create(c);
-        if (string.IsNullOrEmpty(c.Id))
-        {
-            throw new InvalidOperationException("Failed to generate client ID.");
-        }
         c.AddressId = addressid;
-        dalClient.UpDate(c);
+        dalClient.Create(c);
+        c = dalClient.Read().FirstOrDefault(client => client.Id == c.Id); // Refresh client from DB
+        if (c == null || string.IsNullOrEmpty(c.Id))
+        {
+            throw new InvalidOperationException("Failed to create client or retrieve client ID.");
+        }
         return c.Id;
-
-       
     }
+
     public Client? Login(string id)
     {
         var client = dalClient.Read().FirstOrDefault(c => c.Id.Equals(id));
         return client;
     }
    
-
+    
+    
 }
 
 
