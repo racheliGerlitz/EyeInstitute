@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2A118C-16DB-4C2D-8F5D-896803CF461F}|Dal\\Dal.csproj|solutionrelative:dal\\models\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|c:\\users\\user\\desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200Feyeinstitute\\server\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B53A5848-F034-4558-80B0-9A25BAD54409}|Server\\Server.csproj|solutionrelative:server\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Dal\\models\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Dal\\models\\DatabaseManager.cs*",
+              "RelativeToolTip": "Dal\\models\\DatabaseManager.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBsAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:25:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\DoctorController.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BlClientService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlClientService.cs",
               "RelativeDocumentMoniker": "BL\\Service\\BlClientService.cs",
@@ -68,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BlDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlDoctorService.cs",
               "RelativeDocumentMoniker": "BL\\Service\\BlDoctorService.cs",
@@ -81,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\AppointmentController.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ClientController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\ClientController.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BlAppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\BL\\Service\\BlAppointmentService.cs",
               "RelativeDocumentMoniker": "BL\\Service\\BlAppointmentService.cs",
@@ -120,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BLController1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u05D9\u05D5\u05DD \u05E8\u05D1\u05D9\u05E2\u05D9\\\u200F\u200FEyeInstitute\\Server\\Controllers\\BLController1.cs",
               "RelativeDocumentMoniker": "Server\\Controllers\\BLController1.cs",
