@@ -10,7 +10,6 @@ namespace Dal.Api
     public interface IApointment:Icurd<Appointment>
     {
        // bool IsCylinder(Client a);
-        
     }
 
 }

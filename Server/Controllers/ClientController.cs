@@ -58,7 +58,7 @@ namespace Server.Controllers
         [HttpPost("sign-up")]
         public ActionResult SignUp([FromBody] ClientAddressDto clientAddressDto)
         {
-            var newClientId = _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
+            string newClientId = _clientService.SignUp(clientAddressDto.Client, clientAddressDto.Address);
             Console.WriteLine(newClientId);
             if (newClientId != null)
             {
