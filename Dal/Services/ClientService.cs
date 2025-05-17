@@ -19,19 +19,17 @@ public class ClientService : Iclient
 
     public void Create(Client item)
     {
+        var existingClient = db.Clients.FirstOrDefault(c => c.Id.Trim() == item.Id);
 
-        var existingEntity = db.ChangeTracker.Entries<Client>()
-    .FirstOrDefault(e => e.Entity.Id == item.Id)?.Entity;
-
-        if (existingEntity == null)
+        if (existingClient == null)
         {
-            db.Add(item);
+            db.Clients.Add(item);
+            db.SaveChanges();
         }
         else
         {
-            // Optionally update the existing entity
+            throw new InvalidOperationException("לקוח עם תעודת זהות זו כבר קיים.");
         }
-        db.SaveChanges();
     }
 
     public void Delete(Client item)

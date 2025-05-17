@@ -69,8 +69,11 @@ public class BlClientService : IBlClient
             throw new InvalidOperationException("Failed to create address.");
         }
         c.AddressId = addressid;
+        if (string.IsNullOrWhiteSpace(c.Id) )
+            throw new InvalidOperationException("Client ID must be exactly 10 characters.");
+
         dalClient.Create(c);
-        c = dalClient.Read().FirstOrDefault(client => client.Id == c.Id); // Refresh client from DB
+        c= dalClient.Read().FirstOrDefault(client => client.Id.Trim().Equals(c.Id)); // Refresh client from DB
         if (c == null || string.IsNullOrEmpty(c.Id))
         {
             throw new InvalidOperationException("Failed to create client or retrieve client ID.");
@@ -80,7 +83,7 @@ public class BlClientService : IBlClient
 
     public Client? Login(string id)
     {
-        var client = dalClient.Read().FirstOrDefault(c => c.Id.Equals(id));
+        var client = dalClient.Read().FirstOrDefault(c => c.Id.Trim().Equals(id));
         return client;
     }
    
