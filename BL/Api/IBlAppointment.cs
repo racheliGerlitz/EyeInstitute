@@ -15,6 +15,8 @@ namespace BL.Api
         void UpDate(Appointment item);
         List<Appointment> SelectAllAppointmentsByDoctor(int doctorId);
         Appointment SelectAnAppointment(Appointment item,string clientId);
+        void RemoveAnAppointment(Appointment item);
+        List<Appointment>  SelectAppointmentsByClientId(string clientId);
 
     }
 }

@@ -34,14 +34,6 @@ public class AppointmentController : ControllerBase
         _appointmentService.Create(Appointment);
         return CreatedAtAction(nameof(Get), new { id = Appointment.Id }, Appointment);
     }
-
-    [HttpPut]
-    public ActionResult<Appointment> Put([FromBody] Appointment Appointment)
-    {
-        _appointmentService.UpDate(Appointment);
-        return Appointment;
-    }
-
     [HttpDelete("{id}")]
     public IActionResult Delete(string id)
     {
@@ -54,8 +46,9 @@ public class AppointmentController : ControllerBase
         _appointmentService.Delete(Appointment);
         return NoContent();
     }
+    //מחזיר תורים לפי רופאים
     [HttpGet("appointments/{id}")]
-    public ActionResult<List<Appointment>> GetAppointments([FromRoute]int id)
+    public ActionResult<List<Appointment>> GetAppointmentsByDoctor([FromRoute]int id)
     {
         var appointments = _appointmentService.SelectAllAppointmentsByDoctor(id);
         if (appointments == null || appointments.Count == 0)
@@ -64,9 +57,27 @@ public class AppointmentController : ControllerBase
         }
         return Ok(appointments);
     }
+    //קביעת תור
     [HttpPut("{clientId}")]
-    public ActionResult<Appointment> GetAppointment([FromBody]Appointment appointment,[FromRoute] string clientId) {
+    public ActionResult<Appointment> MakeAnAppointment([FromBody]Appointment appointment,[FromRoute] string clientId) {
         return Ok(_appointmentService.SelectAnAppointment(appointment, clientId));
+    }
+    //remove appointment
+    [HttpPut("deleteClient")]
+    public void RemoveAppointment([FromBody] Appointment appointment)
+    {
+         _appointmentService.RemoveAnAppointment(appointment);
+    }
+    //מחזיר תורים לפי לקוח
+    [HttpGet("ClientAppointments/{id}")]
+    public ActionResult<List<Appointment>> GetAppointmentsByClient([FromRoute] string id)
+    {
+        var appointments = _appointmentService.SelectAppointmentsByClientId(id);
+        if (appointments == null || appointments.Count == 0)
+        {
+            return NotFound();
+        }
+        return Ok(appointments);
     }
 
 }
