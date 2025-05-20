@@ -144,3 +144,18 @@ H:\C#Project\EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
 H:\C#Project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
 H:\C#Project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
 H:\C#Project\EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll
+H:\c# project\EyeInstitute\Dal\bin\Debug\net8.0\Dal.deps.json
+H:\c# project\EyeInstitute\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+H:\c# project\EyeInstitute\Dal\bin\Debug\net8.0\Dal.dll
+H:\c# project\EyeInstitute\Dal\bin\Debug\net8.0\Dal.pdb
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.dll
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll

@@ -14,5 +14,6 @@ namespace BL.Api
         void Delete(Doctor item);
         void UpDate(Doctor item);
         public List<Doctor> ChooseADoctor( string Specialization);
+        Doctor Login(int id);
     }
 }

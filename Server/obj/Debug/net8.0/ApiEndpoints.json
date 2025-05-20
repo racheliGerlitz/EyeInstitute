@@ -47,33 +47,7 @@
   },
   {
     "ContainingType": "Server.Controllers.AppointmentController",
-    "Method": "Put",
-    "RelativePath": "api/Appointment",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "Appointment",
-        "Type": "Dal.Models.Appointment",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Dal.Models.Appointment",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Server.Controllers.AppointmentController",
-    "Method": "GetAppointment",
+    "Method": "MakeAnAppointment",
     "RelativePath": "api/Appointment/{clientId}",
     "HttpMethod": "PUT",
     "IsController": true,
@@ -120,7 +94,7 @@
   },
   {
     "ContainingType": "Server.Controllers.AppointmentController",
-    "Method": "GetAppointments",
+    "Method": "GetAppointmentsByDoctor",
     "RelativePath": "api/Appointment/appointments/{id}",
     "HttpMethod": "GET",
     "IsController": true,
@@ -140,6 +114,54 @@
           "application/json",
           "text/json"
         ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Server.Controllers.AppointmentController",
+    "Method": "GetAppointmentsByClient",
+    "RelativePath": "api/Appointment/ClientAppointments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Dal.Models.Appointment, Dal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Server.Controllers.AppointmentController",
+    "Method": "RemoveAppointment",
+    "RelativePath": "api/Appointment/deleteAppointment",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appointment",
+        "Type": "Dal.Models.Appointment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
         "StatusCode": 200
       }
     ]
@@ -381,6 +403,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Server.Controllers.DoctorController",
+    "Method": "Login",
+    "RelativePath": "api/Doctor/check-doctor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "Server.Controllers.DoctorController",

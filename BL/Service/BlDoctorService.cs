@@ -42,5 +42,11 @@ namespace BL.Service
         {
           return  Read().FindAll(d => d.Specialization.Equals(specialization));
         }
+
+        public Doctor? Login(int id)
+        {
+            var client = bldoctor.Read().FirstOrDefault(c => c.Id==id);
+            return client;
+        }
     }
 }

@@ -29,6 +29,23 @@ namespace Server.Controllers
             return _doctorService.Read();
         }
 
+        [HttpGet("check-doctor/{id}")]
+        public ActionResult<string> Login(int id)
+        {
+            var existingDoctor = _doctorService.Login(id);
+            if (existingDoctor != null)
+            {
+                // Return a JSON object with the client's details
+                return Ok(new
+                {
+                    id = existingDoctor.Id,
+                    name = existingDoctor.Name,
+                    specialization= existingDoctor.Specialization
+                });
+            }
+            return NotFound("doctor does not exist.");
+        }
+
         [HttpPost]
         public ActionResult<Doctor> Post([FromBody] Doctor doctor)
         {

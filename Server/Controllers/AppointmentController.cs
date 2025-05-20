@@ -57,26 +57,32 @@ public class AppointmentController : ControllerBase
         }
         return Ok(appointments);
     }
-    //קביעת תור
+
+
+    //make an appointment
     [HttpPut("{clientId}")]
     public ActionResult<Appointment> MakeAnAppointment([FromBody]Appointment appointment,[FromRoute] string clientId) {
         return Ok(_appointmentService.SelectAnAppointment(appointment, clientId));
     }
+
+
     //remove appointment
-    [HttpPut("deleteClient")]
+    [HttpPut("deleteAppointment")]
     public void RemoveAppointment([FromBody] Appointment appointment)
     {
          _appointmentService.RemoveAnAppointment(appointment);
     }
+
+
     //מחזיר תורים לפי לקוח
     [HttpGet("ClientAppointments/{id}")]
     public ActionResult<List<Appointment>> GetAppointmentsByClient([FromRoute] string id)
     {
         var appointments = _appointmentService.SelectAppointmentsByClientId(id);
-        if (appointments == null || appointments.Count == 0)
-        {
-            return NotFound();
-        }
+        //if (appointments == null || appointments.Count == 0)
+        //{
+        //    return NotFound();
+        //}
         return Ok(appointments);
     }
 
