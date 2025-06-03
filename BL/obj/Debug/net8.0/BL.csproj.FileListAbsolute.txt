@@ -170,3 +170,19 @@ H:\c# project\EyeInstitute\BL\obj\Debug\net8.0\BL.dll
 H:\c# project\EyeInstitute\BL\obj\Debug\net8.0\refint\BL.dll
 H:\c# project\EyeInstitute\BL\obj\Debug\net8.0\BL.pdb
 H:\c# project\EyeInstitute\BL\obj\Debug\net8.0\ref\BL.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\bin\Debug\net8.0\BL.deps.json
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\bin\Debug\net8.0\BL.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\bin\Debug\net8.0\BL.pdb
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\bin\Debug\net8.0\Dal.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\bin\Debug\net8.0\Dal.pdb
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.csproj.AssemblyReference.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.AssemblyInfoInputs.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.AssemblyInfo.cs
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.sourcelink.json
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.csproj.Up2Date
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\refint\BL.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\BL.pdb
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\BL\obj\Debug\net8.0\ref\BL.dll

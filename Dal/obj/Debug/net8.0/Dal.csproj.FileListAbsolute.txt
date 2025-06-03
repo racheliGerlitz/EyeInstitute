@@ -159,3 +159,18 @@ H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
 H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
 H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
 H:\c# project\EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\bin\Debug\net8.0\Dal.deps.json
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\bin\Debug\net8.0\Dal.runtimeconfig.json
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\bin\Debug\net8.0\Dal.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\bin\Debug\net8.0\Dal.pdb
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.AssemblyReference.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfoInputs.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.AssemblyInfo.cs
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.sourcelink.json
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\refint\Dal.dll
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.pdb
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\Dal.genruntimeconfig.cache
+C:\Users\IMOE001\Desktop\פרויקט csharp\פרויקט מקומי\EyeInstitute\Dal\obj\Debug\net8.0\ref\Dal.dll

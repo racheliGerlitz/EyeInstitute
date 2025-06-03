@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#Project\\EyeInstitute\\BL\\BL.csproj": {}
+    "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\BL\\BL.csproj": {}
   },
   "projects": {
-    "H:\\C#Project\\EyeInstitute\\BL\\BL.csproj": {
+    "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#Project\\EyeInstitute\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "H:\\C#Project\\EyeInstitute\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\כהן מטי1\\.nuget\\packages\\",
-        "outputPath": "H:\\C#Project\\EyeInstitute\\BL\\obj\\",
+        "projectPath": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\כהן מטי1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IMOE001\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "H:\\C#Project\\EyeInstitute\\Dal\\Dal.csproj": {
-                "projectPath": "H:\\C#Project\\EyeInstitute\\Dal\\Dal.csproj"
+              "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\Dal\\Dal.csproj": {
+                "projectPath": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\Dal\\Dal.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\C#Project\\EyeInstitute\\Dal\\Dal.csproj": {
+    "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#Project\\EyeInstitute\\Dal\\Dal.csproj",
+        "projectUniqueName": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "H:\\C#Project\\EyeInstitute\\Dal\\Dal.csproj",
-        "packagesPath": "C:\\Users\\כהן מטי1\\.nuget\\packages\\",
-        "outputPath": "H:\\C#Project\\EyeInstitute\\Dal\\obj\\",
+        "projectPath": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\IMOE001\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\IMOE001\\Desktop\\פרויקט csharp\\EyeInstitute\\Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\כהן מטי1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\IMOE001\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -150,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
